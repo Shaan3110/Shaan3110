@@ -1,4 +1,4 @@
-<img src="" alt="Hero image">
+<img src="./posters.gif" alt="Hero image">
 
 
 # Hello Coders
@@ -7,7 +7,7 @@ I love web development, Graphic designing and Marketing.
 
 ## About 
 
-### **👉  Domain : FullStack Web Development | Graphic Designer**
+### **👉  Domain : Full Stack Web Development | Graphic Designer**
 ### **👉  Skills : HTML | CSS | JavaScript | Flask | Bootstrap | Photoshop**
 ### **👉  Hobbies : Video Editing 💻| Social media Marketing 🤳**
 
