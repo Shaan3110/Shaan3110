@@ -1,4 +1,4 @@
-<img src="https://github.com/atindra305/atindra305/blob/master/colin-watts-NZP1fIhUOpo-unsplash.jpg" alt="Hero image">
+<img src="" alt="Hero image">
 
 
 # Welcome
@@ -14,7 +14,7 @@ I love web development, Graphic designing and Marketing.
 
 ## Contributing to Open-Source 🔥🔥🔥🔥🔥
 
-<img src="https://github.com/atindra305/atindra305/blob/master/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" alt="Coding">
+<img src="" alt="Coding">
 
 # Follow me on:
 
