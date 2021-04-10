@@ -1,6 +1,5 @@
-<video width="100vw" height="50vh">
-  <source src="./video.mp4" type="video/mp4">
-</video>
+
+<img src="./video.gif" alt="Coding">
 
 
 # Hello Coders
