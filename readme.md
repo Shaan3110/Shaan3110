@@ -20,7 +20,7 @@ I love web development, Graphic designing and Marketing.
 
 [![GitHub followers](https://img.shields.io/github/followers/Shaan3110?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/Shaan3110/)
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-Atindra_Shekhar-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atindra-shekhar-6b6727193/)](https://www.linkedin.com/in/atindra-shekhar-6b6727193/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Suchintan Das-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atindra-shekhar-6b6727193/)](https://www.linkedin.com/in/suchintan-das-b698bb1b8/)
 
 # Languages I know: 
 
