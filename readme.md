@@ -24,13 +24,13 @@ I love web development, Graphic designing and Marketing.
 
 # Languages I know: 
 
-![](https://img.shields.io/badge/Language-Java-green)
+![](https://img.shields.io/badge/Language-Booststrap-green)
 ![](https://img.shields.io/badge/Language-Python-blue)
 ![](https://img.shields.io/badge/Language-C++-yellow)
-![](https://img.shields.io/badge/Language-C-yellow)
+![](https://img.shields.io/badge/Language-Flask-yellow)
 ![](https://img.shields.io/badge/Language-JavaScript-darkGreen)
-![](https://img.shields.io/badge/Language-MySQL-red)
-![](https://img.shields.io/badge/Language-PHP-darkblue)
+![](https://img.shields.io/badge/Language-HTML-red)
+![](https://img.shields.io/badge/Language-CSS-darkblue)
 
 
 # My Stats
