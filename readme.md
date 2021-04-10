@@ -19,6 +19,9 @@ I love web development, Graphic designing and Marketing.
 <img src="./posters.gif" alt="Coding">
 
 ### **KQuery** : https://github.com/Shaan3110/KQuery
+### **Sorting Visualizer** : https://github.com/Shaan3110/Sorting-Visualizer
+### **Pariksha** : https://github.com/Shaan3110/PARiKSHA
+### **Portfolio Website** : https://github.com/Shaan3110/Portfolio_website
 
 # Follow me on:
 
