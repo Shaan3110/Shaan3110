@@ -2,7 +2,7 @@
 <img src="./best shots.gif" alt="Coding">
 
 
-# Hello Coders
+# Hello Coders 🙋‍♂️ 🙋‍♂️
 This is Suchintan. I am a B.Tech student at Bennett University.
 I love web development, Graphic designing and Marketing.
 
