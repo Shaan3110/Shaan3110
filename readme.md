@@ -8,9 +8,9 @@ I love web development, Graphic designing and Marketing.
 
 ## About 
 
-### **👉  Domain : Full Stack Web Development | Graphic Designer**
-### **👉  Skills : HTML | CSS | JavaScript | Flask | Bootstrap | Photoshop**
-### **👉  Hobbies : Video Editing 💻| Social media Marketing 🤳**
+### **👉  📶 Domain : Full Stack Web Development | Graphic Designer**
+### **👉  🎯 Skills : HTML | CSS | JavaScript | Flask | Bootstrap | Photoshop**
+### **👉  🏆 Hobbies : Video Editing 💻| Social media Marketing 🤳**
 
 
 
