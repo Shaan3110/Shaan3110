@@ -25,4 +25,4 @@ I love web development, Graphic designing and Marketing.
 ###My Stats
 [![Shaan3110's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaan3110)](https://github.com/Shaan3110/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaan3110&show_icons=true&locale=en&layout=compact" alt="shaan3110" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaan3110&show_icons=true&locale=en&layout=compact" alt="shaan3110" /></p> -->
