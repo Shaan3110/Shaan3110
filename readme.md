@@ -7,12 +7,12 @@ I love web development, Graphic designing and Marketing.
 
 ## About 
 
-### 👉  **Domain : FullStack Web Development | Graphic Designer**
-### 👉  **Skills : HTML | CSS | JavaScript | Flask | Bootstrap | Photoshop**
-### 👉  **Hobbies : Video Editing 💻| Social media Marketing**
+### **👉  Domain : FullStack Web Development | Graphic Designer**
+### **👉  Skills : HTML | CSS | JavaScript | Flask | Bootstrap | Photoshop**
+### **👉  Hobbies : Video Editing 💻| Social media Marketing 🤳**
 
 
-## Projects and Open Source Contributions 👨‍💻👨‍💻👨‍💻
+## **Projects and Open Source Contributions 👨‍💻👨‍💻👨‍💻**
 
 <img src="" alt="Coding">
 
