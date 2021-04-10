@@ -2,7 +2,7 @@
 
 
 # Welcome
-Hello, this is Suchintan. I am a b.tech student at Bennett University.
+Hello, this is Suchintan. I am a B.Tech student at Bennett University.
 I love web development, Graphic designing and Marketing.
 
 ## About 
