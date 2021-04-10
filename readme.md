@@ -1,5 +1,5 @@
-<video>
-  <source src="video.mp4" type="video/mp4">
+<video width="100vw" height="50vh">
+  <source src="./video.mp4" type="video/mp4">
 </video>
 
 
