@@ -18,7 +18,7 @@ I love web development, Graphic designing and Marketing.
 
 # Follow me on:
 
-[![GitHub followers](https://img.shields.io/github/followers/Shaan3110?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/Shaan3110/)
+[![GitHub followers](https://img.shields.io/github/followers/Shaan3110?label=Follow&style=plastic&logo=github&logoColor=white&color=blue)](https://www.github.com/Shaan3110/)
 
 # Languages I know: 
 
