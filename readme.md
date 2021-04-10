@@ -16,7 +16,7 @@ I love web development, Graphic designing and Marketing.
 
 <img src="" alt="Coding">
 
-### <a href="https://github.com/Shaan3110/KQuery">KQuery</a>
+### <a href="https://github.com/Shaan3110/KQuery" style="color=white;">KQuery</a>
 
 # Follow me on:
 
