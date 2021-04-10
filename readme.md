@@ -18,7 +18,7 @@ I love web development, Graphic designing and Marketing.
 
 # Follow me on:
 
-[![GitHub followers](https://img.shields.io/github/followers/atindra305?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/atindra305/)
+[![GitHub followers](https://img.shields.io/github/followers/Shaan3110?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/atindra305/)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Atindra_Shekhar-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atindra-shekhar-6b6727193/)](https://www.linkedin.com/in/atindra-shekhar-6b6727193/)
 
