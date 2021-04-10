@@ -25,5 +25,5 @@ I love web development, Graphic designing and Marketing.
 
 # My Stats
 
-![Atindra Shekhar's github stats](https://github-readme-stats.vercel.app/api?username=atindra305&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=atindra305&theme=tokyonight&hide_langs_below=1)
+![Suchintan Das's github stats](https://github-readme-stats.vercel.app/api?username=Shaan3110&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shaan3110&theme=tokyonight&hide_langs_below=1)
