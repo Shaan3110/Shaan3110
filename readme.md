@@ -1,8 +1,8 @@
 <img src="" alt="Hero image">
 
 
-# Welcome
-Hello, this is Suchintan. I am a B.Tech student at Bennett University.
+# Hello Coders
+This is Suchintan. I am a B.Tech student at Bennett University.
 I love web development, Graphic designing and Marketing.
 
 ## About 
