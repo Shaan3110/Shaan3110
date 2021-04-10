@@ -12,7 +12,7 @@ I love web development, Graphic designing and Marketing.
 ### 👉  **Hobbies : Video Editing 💻|**
 
 
-## Contributing to Open-Source 🔥🔥🔥🔥🔥
+## Projects and Open Source Contributions 👨‍💻👨‍💻👨‍💻
 
 <img src="" alt="Coding">
 
