@@ -1,4 +1,4 @@
-<img src="./posters.gif" alt="Hero image">
+<img src="" alt="Hero image">
 
 
 # Hello Coders
@@ -15,7 +15,7 @@ I love web development, Graphic designing and Marketing.
 
 ## **Projects and Open Source Contributions 👨‍💻👨‍💻👨‍💻**
 
-<img src="" alt="Coding">
+<img src="./posters.gif" alt="Coding">
 
 ### **KQuery** : https://github.com/Shaan3110/KQuery
 
